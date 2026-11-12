@@ -1,0 +1,53 @@
+{
+  "series_ko": "DB 실습 시작하기",
+  "title_ko": "초보자도 쉽게 따라하는 DB 환경 설치",
+  "site_title": "초보자도 쉽게 따라하는 DB 환경 설치 — 연구실 데이터 창고 놓기",
+  "site_url": "https://adminmrobo.github.io/how_to_start_db/",
+  "ontology": {
+    "pages": [
+      {
+        "path": "index.html",
+        "kg": true,
+        "export": true
+      }
+    ],
+    "files": []
+  },
+  "i18n": {
+    "langs": [
+      "ko"
+    ],
+    "pages": {
+      "ko": 1
+    },
+    "readme_langs": [
+      "ko"
+    ]
+  },
+  "languages": [
+    "ko"
+  ],
+  "items": [
+    {
+      "id": "cover",
+      "role": "cover",
+      "embedded_in": "index.html",
+      "key": ".cover[data-img=cover_00]",
+      "size": [
+        1600,
+        900
+      ],
+      "characters": [
+        "doc",
+        "asst",
+        "fly",
+        "jupanbot"
+      ],
+      "robot": "jupanbot-v2",
+      "prompt_en": "16:9 pixel-art illustration, night laboratory with fluorescent-microscope color accents on a dark navy background (#13141f). Three chunky server cabinets stand in a row with small status lights: the first glows green, the second blue, the third amber. In front of them, four chibi lab characters: a confident scientist with thin teal rectangular glasses, black hair with one white streak and a short ponytail, white lab coat over black vest and tie, gesturing toward the cabinets; a female assistant with long pink hair in two round buns and a navy streak, white lab coat over a lavender hoodie, jeans, holding a paper note; a small fruit-fly researcher with red compound eyes, blue helmet with a gold stripe and pink and blue wires, white coat over black vest, holding a clipboard; a beige box-shaped retro CRT computer robot with a dark green screen showing mint pixel eyes and mouth, a short antenna tipped with an abacus bead, grey segmented arms, two caterpillar tracks, holding a wooden abacus. Height order: scientist tallest, assistant slightly shorter, robot shorter, fruit fly smallest. Leave the upper-left third empty for a title. No text, no letters, no numbers, no logos.",
+      "source_of": null,
+      "status": "redraw"
+    }
+  ],
+  "updated": "2026-11-12"
+}
