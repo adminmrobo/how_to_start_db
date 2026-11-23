@@ -1,0 +1,73 @@
+{
+ "version": "1.0",
+ "made": "2026-11-24",
+ "via": "rehang-2026-11-24",
+ "domains": [
+  "data"
+ ],
+ "note": "분야 뼈대 주제에 다시 걸기(ai-lab-retrofit 15장). links는 자동 후보이며 틀린 줄은 지우면 된다. 빌드 스크립트가 있는 저장소는 빌드 끝에 rehang.apply_overlay()가 이 파일을 적용한다.",
+ "topics": {
+  "lab:topic/relational-model": {
+   "ko": "관계 모형",
+   "en": "Relational model",
+   "domain": [
+    "data"
+   ],
+   "level": 1
+  },
+  "lab:topic/sql": {
+   "ko": "SQL",
+   "en": "SQL",
+   "domain": [
+    "data"
+   ],
+   "level": 1
+  }
+ },
+ "links": {
+  "lab:concept/database": {
+   "topic": "lab:topic/relational-model",
+   "score": 3,
+   "why": "사람이 고름",
+   "ko": "데이터베이스"
+  },
+  "lab:concept/sql": {
+   "topic": "lab:topic/sql",
+   "score": 3,
+   "why": "이름 같음",
+   "ko": "SQL"
+  },
+  "lab:method/mariadb": {
+   "topic": "lab:topic/relational-model",
+   "score": 3,
+   "why": "사람이 고름",
+   "ko": "MariaDB"
+  },
+  "lab:method/mysql": {
+   "topic": "lab:topic/sql",
+   "score": 2,
+   "why": "주제 이름이 개념 이름에 들어 있음",
+   "ko": "MySQL"
+  },
+  "lab:method/pgadmin": {
+   "topic": "lab:topic/sql",
+   "score": 3,
+   "why": "사람이 고름",
+   "ko": "pgAdmin"
+  },
+  "lab:method/postgresql": {
+   "topic": "lab:topic/relational-model",
+   "score": 3,
+   "why": "사람이 고름",
+   "ko": "PostgreSQL"
+  }
+ },
+ "retag": {
+  "from": [
+   "db"
+  ],
+  "to": [
+   "data"
+  ]
+ }
+}
